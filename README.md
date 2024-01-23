@@ -1,17 +1,19 @@
 ## William Kaplan
 
-- 👀 Estou interessado em entrar no mundo da programação.
+## Linguagens utilizadas:
 
-## Linguagens:
-
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30"/>
-</a>
-
+-- Linguagens que utilizei em **Lógica de programação**.
 
 <a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/>
 </a>
+
+<a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30"/>
+</a>
+
+-- Linguagens que utilizei em **projetos pessoais** e **cursos**.
+
 
 ## Rede Social:
 
