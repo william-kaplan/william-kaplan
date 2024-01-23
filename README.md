@@ -7,4 +7,8 @@
 - 📫 Entre em contato pelo e-mail: william_kaplan@hotmail.com
 
 [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](
-https://www.linkedin.com/in/williamrkaplan){:width="100px"}
+https://www.linkedin.com/in/williamrkaplan)
+
+<a href="https://www.linkedin.com/in/williamrkaplan">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Minha Foto" width="100"/>
+</a>
