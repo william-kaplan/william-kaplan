@@ -16,5 +16,5 @@
 ## Rede Social:
 
 <a href="https://www.linkedin.com/in/williamrkaplan">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" aling="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
 </a>
