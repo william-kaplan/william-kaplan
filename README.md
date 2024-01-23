@@ -2,7 +2,7 @@
 
 - 👀 Estou interessado em entrar no mundo da programação.
 
-## Linguagens:
+<h2> Linguagens:</h2>
 
 <a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30"/>
@@ -15,6 +15,8 @@
 
 ## Rede Social:
 
+<p aling="center">
 <a href="https://www.linkedin.com/in/williamrkaplan">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
+</p>
 </a>
