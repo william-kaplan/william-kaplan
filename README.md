@@ -4,11 +4,6 @@
 
 - 🌱 Aprendi lógica de programação utilizando o JavaScript e C.
 
-- 📫 Entre em contato pelo e-mail: william_kaplan@hotmail.com
-
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](
-https://www.linkedin.com/in/williamrkaplan)
-
 <a href="https://www.linkedin.com/in/williamrkaplan">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Minha Foto" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60"/>
 </a>
