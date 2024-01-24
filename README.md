@@ -1,4 +1,4 @@
-<p text aling="center">## Linguagens utilizadas:</p>
+## Linguagens utilizadas:
 
 * Linguagens que utilizei em **lógica de programação**.
 
