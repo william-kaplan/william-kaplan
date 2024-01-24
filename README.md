@@ -8,7 +8,9 @@
 
 <a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30"/>
-</a> <br>
+</a> 
+
+<br />
 
 * Linguagens que utilizei em **projetos pessoais** e **cursos**.
 
@@ -22,7 +24,9 @@
 
 <a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/>
-</a> </br>
+</a> 
+
+<br />
 
 ## Rede Social:
 
