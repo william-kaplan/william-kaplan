@@ -2,31 +2,19 @@
 
 * Linguagens que utilizei em **lógica de programação**.
 
-<a>
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/>
-</a>
-
-<a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30"/>
-</a> 
-
+</div> 
 <br />
 
 * Linguagens que utilizei em **projetos pessoais** e **cursos**.
 
-<a>
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30"/>
-</a>
-
-<a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="30"/>
-</a>
-
-<a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/>
-</a> 
-
-<br />
+</div>
 
 ## Rede Social:
 
