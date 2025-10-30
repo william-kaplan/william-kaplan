@@ -1,10 +1,6 @@
-## Linguagens utilizadas:
-
-* Linguagens que utilizei em **lógica de programação**.
+## Linguagem que **estudo**:
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/>
 </div> 
 <br />
