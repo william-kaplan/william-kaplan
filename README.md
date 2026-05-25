@@ -5,7 +5,7 @@
 </div> 
 <br />
 
-* Linguagens que utilizei em **projetos pessoais** e **cursos**.
+## Linguagens que utilizei em **projetos pessoais** e **cursos**.
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30"/>
