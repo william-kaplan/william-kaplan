@@ -3,7 +3,6 @@
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/>
 </div> 
-<br />
 
 ## Linguagens que utilizei em **projetos pessoais** e **cursos**.
 
