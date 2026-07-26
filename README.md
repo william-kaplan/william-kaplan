@@ -30,19 +30,19 @@ Formado em Análise e Desenvolvimento de Sistemas (Unicesumar), com interesse em
 
 <p align="center">
   
- <a href="https://www.linkedin.com/in/williamrkaplan/">
+ <a href="https://www.linkedin.com/in/williamrkaplan/" target="_blank">
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="https://t.me/">
+ <a href="https://t.me/" target="_blank">
  <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
  </a>
 
- <a href="https://discord.com/">
+ <a href="https://discord.com/" target="_blank">
  <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
  </a>
  
- <a href="mailto:william_kaplan@hotmail.com">
+ <a href="mailto:william_kaplan@hotmail.com" target="_blank">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
