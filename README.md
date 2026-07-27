@@ -5,7 +5,7 @@
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=33FF33&center=true&vCenter=true&width=900&height=110&lines=Analista+de+Dados;Desenvolvedor+de+Sistemas;Inteligência+Artificial+Automação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=33FF33&center=true&vCenter=true&width=900&height=110&lines=Analista+de+Dados;Desenvolvedor+de+Sistemas;Inteligência+Artificial;Automação)](https://git.io/typing-svg)
 </div>
 <p align="center" >
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
@@ -32,14 +32,6 @@ Formado em Análise e Desenvolvimento de Sistemas, com interesse em Dados, IA, D
   
  <a href="https://www.linkedin.com/in/williamrkaplan/" target="_blank">
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
-
- <a href="https://t.me/" target="_blank">
- <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
- </a>
-
- <a href="https://discord.com/" target="_blank">
- <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
  </a>
  
  <a href="mailto:william_kaplan@hotmail.com" target="_blank">
@@ -146,10 +138,6 @@ Formado em Análise e Desenvolvimento de Sistemas, com interesse em Dados, IA, D
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
   </a>
 
- <a href="https://netbeans.apache.org/" target="_blank"> 
-    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"/>
-  </a>
-
  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"/>
   </a>
@@ -162,9 +150,7 @@ Formado em Análise e Desenvolvimento de Sistemas, com interesse em Dados, IA, D
   
 ### 🥅 Outros:
 
-<a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"></a>
-<a href="https://httpd.apache.org" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white"></a>
-<a href="https://tomcat.apache.org" target="_blank"><img alt="Apache Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black"></a>
+<a href="https://learn.microsoft.com/pt-br/power-bi/" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/PowerBI-%23F24E1E.svg?logo=powerbi&logoColor=white"></a>
 <a href="https://www.selenium.dev" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?logo=selenium&logoColor=white"></a>
 <a href="https://www.anaconda.com" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white"></a>
 <a href="https://www.djangoproject.com" target="_blank"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"></a>
