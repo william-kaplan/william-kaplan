@@ -14,12 +14,12 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>Sobre Mim</b>
 
 
-Formado em Análise e Desenvolvimento de Sistemas (Unicesumar), com interesse em Dados, IA e Desenvolvimento. Atualmente atuando como Auxiliar de Projetos na Solução Sacadas, onde além do trabalho técnico do dia a dia, venho mapeando regras de negócio para futura automação de processos.
+Formado em Análise e Desenvolvimento de Sistemas, com interesse em Dados, IA, Desenvolvimento e Automações. Atuao como Auxiliar de Projetos na Solução Sacadas, onde além do trabalho técnico do dia a dia, venho mapeando regras de negócio para futura automação de processos.
 
-- 💼 10 anos de experiência prévia em monitoramento e reporte de dados operacionais (Veka do Brasil)
+- 💼 10 anos de experiência prévia em monitoramento e reporte de dados operacionais
 - ✅ Desenvolvi um pipeline de ETL em **Python + PostgreSQL** usando arquitetura Medallion (Raw → Silver → Gold)
 - 🌱 Aprendendo fazendo e gosto de entender o "porquê" antes do "como"
-- 🏀 Curto asistir NBA.
+- 🏀 Curto assistir NBA.
 
 <br>
 
